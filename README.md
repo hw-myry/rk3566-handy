@@ -1,5 +1,3 @@
-# rk3566-handy
-
 # RK3566 Smartphone
 
 This is a smartphone designed in EasyEDA based on the RK3566 Hardware Design Kit (HDK).
