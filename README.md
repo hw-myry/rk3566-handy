@@ -1,6 +1,14 @@
 # rk3566-handy
 
-<img width="1179" height="1886" alt="046ffbce9251767b9ce2b919d4647105" src="https://github.com/user-attachments/assets/1c66bbac-3c5e-4528-811e-eacc1ca1412e" />
 
+<p align="center">
+  <img src="04.fotos/read_chipinfo.jpg" alt="Chip Information" width="800">
+</p>
 
-<img width="1179" height="1556" alt="179d92514d5f31848859b3909c2a536a" src="https://github.com/user-attachments/assets/9f7f88d3-89a1-4d01-9c46-9aa14c26a71d" />
+<p align="center">
+  <img src="04.fotos/top_overview.jpg" alt="Board Top Overview" width="800">
+</p>
+
+<p align="center">
+  <img src="04.fotos/start.jpg" alt="Boot Test" width="800">
+</p>
