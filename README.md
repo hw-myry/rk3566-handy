@@ -4,7 +4,7 @@ This is a smartphone designed in EasyEDA based on the RK3566 Hardware Design Kit
 
 
 <p align="center">
-  <img src="04.fotos/top_overview.jpg" alt="Board Top Overview" width="400">
+  <img src="04.fotos/top2_overview.jpg" alt="Board Top Overview" width="400">
 </p>
 
 <p align="center">
