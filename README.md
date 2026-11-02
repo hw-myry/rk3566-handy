@@ -70,3 +70,25 @@ A minimal Linux system image is currently being prepared for further hardware an
 <p align="center">
   <img src="04.fotos/uart.jpg" alt="Boot Test" width="400">
 </p>
+
+**November 3, 2026**
+
+The following functions have also been verified at the Linux stage:
+
+- A 3.1-inch 480×800 MIPI-DSI display with an ST7701S controller is functional.
+- The FT/CST touch controller is functional.
+- The display and touch functions have been successfully enabled by modifying the device tree.
+- A custom Buildroot system has been compiled from source and booted successfully.
+
+
+<p align="center">
+  <img src="04.fotos/overview1.jpg" alt="Boot Test" width="400">
+</p>
+
+<p align="center">
+  <img src="04.fotos/display.jpg" alt="Boot Test" width="400">
+</p>
+
+<p align="center">
+  <img src="04.fotos/buildroot1.jpg" alt="Boot Test" width="400">
+</p>
